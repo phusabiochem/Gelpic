@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Gelpic Application
+Comment=Gelpic Application
+Icon=/home/pi/Gelpic100/icon.ico
+Exec=/home/pi/Gelpic100/dist/gelpic/gelpic
+Type=Application
+Encoding=UTF-8
+Terminal=false
+StartUpNotify=true
+Categories=None;
+StartupNotify=false
